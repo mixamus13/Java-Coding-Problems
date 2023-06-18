@@ -4,7 +4,7 @@ import java.util.Optional;
 
 public class Example1 {
 
-    public void example1() {
+    public static void example1() {
         
         Optional<String> lowername = Optional.of("hello world"); // may be empty as well
 

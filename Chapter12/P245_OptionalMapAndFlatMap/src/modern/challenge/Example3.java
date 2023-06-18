@@ -8,7 +8,7 @@ public class Example3 {
 
     private static final String NOT_FOUND = "NOT FOUND";
 
-    public void example3() {
+    public static void example3() {
         
         List<Book> books = Arrays.asList();
 
